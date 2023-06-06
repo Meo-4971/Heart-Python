@@ -1,0 +1,21 @@
+﻿\## Thông tin về bộ dữ liệu mà nhóm phân tích
+
+- Bộ dữ liệu gồm: 18 cột và 60.000 dòng. Trong đó:
+- HeartDisease: Bạn có từng báo cáo bị bệnh tim mạch vành (CHD) hoặc nhồi máu cơ tim (MI) không?
+- BMI: Chỉ số khối cơ thể (BMI)
+- Smoking: Bạn đã hút ít nhất 100 điếu thuốc trong suốt cuộc đời mình chưa? (Lưu ý: 5 gói = 100 điếu)
+- AlcoholDrinking: Người nghiện rượu nặng (nam giới trưởng thành uống hơn 14 ly mỗi tuần và phụ nữ trưởng thành uống hơn 7 ly mỗi tuần)
+- Age: Tuổi của người tham gia khảo sát.
+- Stroke: Bạn đã bao giờ bị đột quỵ chưa?
+- PhysicalHealth: Trong 30 ngày qua, sức khỏe thể chất của bạn không tốt bao nhiêu ngày (bao gồm cả bệnh tật và thương tích)?
+- MentalHealth: Trong 30 ngày qua, sức khỏe tinh thần của bạn không tốt bao nhiêu ngày?
+- DiffWalking: Bạn có gặp khó khăn nghiêm trọng khi đi bộ hoặc leo cầu thang không?
+- Sex: giới tính
+- AgeCategory: danh mục tuổi (nhóm tuổi).
+- Diabetic: Bạn đã bao giờ bị bệnh tiểu đường chưa?
+- PhysicalActivity: Khác với công việc bình thường của bạn, trong 30 ngày qua, bạn có hoạt động thể chất hoặc tập thể dục không?
+- GenHealth: Nhìn chung sức khỏe của bạn như thế nào?
+- SleepTime: Trung bình bạn ngủ bao nhiêu giờ một ngày?
+- Asthma: Bạn có bị hen suyễn không?
+- KidneyDisease: Không bao gồm sỏi thận, nhiễm trùng bàng quang hoặc tiểu không kiểm soát, bạn đã bao giờ nói rằng bạn bị bệnh thận chưa?
+- SkinCancer: Bạn đã từng bị ung thư da chưa?
